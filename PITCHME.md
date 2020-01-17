@@ -1,6 +1,9 @@
 # Datagram messages & multicast in java
 
 ---
+Abbiamo visto finora la connessione tra client e server tramite socket TCP/IP. Java fornisce le classi 
+`java.net.Socket` e `java.net.ServerSocket` per creare questo tipo di connessione.
+---
 @snap[north-west]
 L'array è una struttura dati che in fase di instanziazione viene stabilito in numero di elementi di cui è composta.
 @snapend
